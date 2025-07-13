@@ -28,7 +28,7 @@ I’m a tech enthusiast with 3+ years of experience building full stack applicat
 
 ---
 
-## 🧪 Labs & Projects
+
 
 ## 🧪 Labs & DevOps Projects
 
@@ -37,6 +37,7 @@ I’m a tech enthusiast with 3+ years of experience building full stack applicat
 | 🗳️ Voting App Deployment | CI/CD deployed microservices | Docker, Git, Jenkins, GitHub |
 | 🔐 THM: Web Security Labs | Real-world OWASP attack practice | Nmap, Burp Suite, dirb |
 | ⚙️ GitHub Actions Pipeline | Automated scans (SAST/DAST) | Semgrep, ZAP, Gitleaks |
+| 📓 Pentesting Reports | Real-world attack simulations | Markdown reports |
 
 ---
 ## 🧰 Tech Stack
