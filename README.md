@@ -24,7 +24,7 @@ I’m a tech enthusiast with 3+ years of experience building full stack applicat
 
 ## 📄 My Resume
 
-- 👉 [Download Resume (PDF)](https://github.com/karthikmuniraju/resume/blob/main/Karthik.M%20-%20Full%20Stack%20Developer%20-%20AGS.pdf)
+- 👉 [Download Resume (PDF)](https://github.com/karthikmuniraju/resume/blob/main/Karthik_m_resume.pdf.pdf)
 
 ---
 
