@@ -1,6 +1,7 @@
-# 👋 Hi, I'm Karthik M
+# 👋 Hi There welcome to my profile ,
+# I'm Karthik M
 
-🎯 Full Stack Developer | 🛡️ AppSec Learner | 🧪 Pentester in Training | 🚀 DevSecOps Enthusiast
+🎯 Full Stack Developer | 🛡️ AppSec Learner | 🧪 Pentester in Training | 🚀 DevSecOps Enthusiast |🚀 DevOps Engineer in Transition
 
 ---
 
@@ -13,7 +14,9 @@ I’m a tech enthusiast with 3+ years of experience building full stack applicat
 ## 🔐 What I'm Working On
 
 - 🧪 Completing [TryHackMe - Jr Penetration Tester Path](https://tryhackme.com/)
+- 🛠️ Building & deploying CI/CD pipelines (Jenkins, GitHub Actions)
 - 🔧 Building secure CI/CD pipelines with GitHub Actions, Semgrep, and OWASP ZAP
+- 🐳 Dockerizing multi-service apps (Voting App
 - 📓 Writing daily [Pentesting Reports](https://github.com/yourusername/pentest-reports)
 - 💡 Learning web security through PortSwigger Labs
 
@@ -29,9 +32,18 @@ I’m a tech enthusiast with 3+ years of experience building full stack applicat
 
 | Project | Description | Tools |
 |--------|-------------|-------|
+| 
+| 🗳️ Voting App Deployment | CI/CD deployed microservices | Docker, Git, Jenkins, GitHub |
 | 🔍 THM: Network & Web Labs | Completed 20+ hands-on labs | `Nmap`, `Burp Suite`, `dirb`, `Hydra` |
 | 🛠️ DevSecOps Demo | SAST + DAST in CI/CD | `GitHub Actions`, `Semgrep`, `ZAP`, `Gitleaks` |
 | 📓 Pentesting Reports | Real-world attack simulations | Markdown reports |
+
+---
+## 🧰 Tech Stack
+
+**Languages:** Java, Spring Boot, Angular, TypeScript, Python (basics)  
+**DevOps Tools:** Git, GitHub Actions, Jenkins, Docker, Linux  
+**Security Tools:** Burp Suite, Nmap, Hydra, dirb, Gobuster, Semgrep, ZAP
 
 ---
 
