@@ -30,13 +30,13 @@ I’m a tech enthusiast with 3+ years of experience building full stack applicat
 
 ## 🧪 Labs & Projects
 
+## 🧪 Labs & DevOps Projects
+
 | Project | Description | Tools |
 |--------|-------------|-------|
-| 
 | 🗳️ Voting App Deployment | CI/CD deployed microservices | Docker, Git, Jenkins, GitHub |
-| 🔍 THM: Network & Web Labs | Completed 20+ hands-on labs | `Nmap`, `Burp Suite`, `dirb`, `Hydra` |
-| 🛠️ DevSecOps Demo | SAST + DAST in CI/CD | `GitHub Actions`, `Semgrep`, `ZAP`, `Gitleaks` |
-| 📓 Pentesting Reports | Real-world attack simulations | Markdown reports |
+| 🔐 THM: Web Security Labs | Real-world OWASP attack practice | Nmap, Burp Suite, dirb |
+| ⚙️ GitHub Actions Pipeline | Automated scans (SAST/DAST) | Semgrep, ZAP, Gitleaks |
 
 ---
 ## 🧰 Tech Stack
