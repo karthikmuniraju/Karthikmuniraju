@@ -38,12 +38,13 @@ I’m a tech enthusiast with 3+ years of experience building full stack applicat
 | 🔐 THM: Web Security Labs | Real-world OWASP attack practice | Nmap, Burp Suite, dirb |
 | ⚙️ GitHub Actions Pipeline | Automated scans (SAST/DAST) | Semgrep, ZAP, Gitleaks |
 | 📓 Pentesting Reports | Real-world attack simulations | Markdown reports |
+| 🎵 My Music Player (Tkinter) | GUI-based music player built using Python and Tkinter | Python, Tkinter, Pygame |
 
 ---
 ## 🧰 Tech Stack
 
-**Languages:** Java, Spring Boot, Angular, TypeScript, Python (basics)  
-**DevOps Tools:** Git, GitHub Actions, Jenkins, Docker, Linux  
+**Languages:** Java, Spring Boot, Angular, TypeScript, Python 
+**DevOps Tools:** Git, GitHub Actions, Jenkins, Docker, Linux ,Terrform, Asible, K8, AWS 
 **Security Tools:** Burp Suite, Nmap, Hydra, dirb, Gobuster, Semgrep, ZAP
 
 ---
